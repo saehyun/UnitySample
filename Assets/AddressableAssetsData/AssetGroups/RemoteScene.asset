@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: RemoteScene
+  m_EditorClassIdentifier: 
+  m_GroupName: RemoteScene
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c3c08087791cc60409b05b0cb2bd930f
+  m_SerializeEntries:
+  - m_GUID: 2cda990e2423bbf4892e6590ba056729
+    m_Address: Lobby
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Lobby
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4b1086e6ab3372f4081350877435d65a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a0163b004250b044da9234088841e123, type: 2}
+    - {fileID: 11400000, guid: 9d8e8363acc82c44887a4f0c95a80505, type: 2}
